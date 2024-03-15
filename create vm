@@ -1,0 +1,2 @@
+#create machine Linux ubuntu
+wsl --install
